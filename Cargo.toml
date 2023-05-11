@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "middlewares/auth",
+    "middlewares/cors",
+    "service",
+]
